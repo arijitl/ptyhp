@@ -1,7 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5be9442-94e6-4a2f-8c08-c5f177f91dca" name="Default" comment="" />
+    <list default="true" id="f5be9442-94e6-4a2f-8c08-c5f177f91dca" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\column-index.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\csoon.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\index-box-element.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\index-hover-img.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\index-nav-link.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\progress.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\ser-inc.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\img\sidebar.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\basic doc\js\respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\0-base.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\assets\arrows.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\assets\bullets.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\assets\small_arrows.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\blog-single.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\careers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\coming-soon.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\css\jquery.countdown.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\css\prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\css\settings-ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\css\settings.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\error.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\faq.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\feature.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\flat-icon\fi9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\grid-wall\wall15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\map.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\portfolio\tn9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\dark_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\default\sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\facebook\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_rounded\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_rounded\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_rounded\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_rounded\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_rounded\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_square\btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_square\btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_square\default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_square\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\prettyPhoto\light_square\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\s21.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\s31.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\s32.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\s33.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\s34.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\img\slider\slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\index-column.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\imagesloaded.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\isotope.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.countTo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.countdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.flot.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.themepunch.plugins.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\jquery.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\js\masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\landing-page.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\login.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\product.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\resume.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\service.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\sitemap.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\testimonial.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Arijit\RubymineProjects\PtotemyWebSite\theme\time-line.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PtotemyWebSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +199,7 @@
       <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41680962" vertical-offset="1865" max-vertical-offset="18649">
+            <state vertical-scroll-proportion="0.66032606" vertical-offset="1865" max-vertical-offset="18649">
               <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -57,6 +230,14 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -73,7 +254,7 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -145,7 +326,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -177,10 +358,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -390,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41680962" vertical-offset="1865" max-vertical-offset="18649">
+        <state vertical-scroll-proportion="0.66032606" vertical-offset="1865" max-vertical-offset="18649">
           <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
